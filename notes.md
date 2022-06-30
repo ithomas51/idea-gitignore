@@ -1,0 +1,1 @@
+.ignore plugin for rider
